@@ -13,20 +13,20 @@ Soy una persona tenaz y determinada. Cuando enfrento un nuevo desafío, me entre
 
 ## 💻Tecnologías y herramientas
 ### Lenguajes que manejo:
-- **Java**
-- **TypeScript**
-- **HTML**
-- **Python**
-- **JavaScript**
-- **Kotlin**
-- **MySQL**
+- Java
+- TypeScript
+- HTML
+- Python
+- JavaScript
+- Kotlin
+- MySQL
 ### Aprendiendo actualmente:
-- **Angular**
-- **Android Studio**
+- Angular
+- Android Studio
 ### En mi Radar:
-- **IONIC**
-- **Flutter**
-- **Unity**
+- IONIC
+- Flutter
+- Unity
 
 ## 🚀Objetivos profesionales
 - **Desarrollo continuo:** Quiero enriquecerme aprendiendo nuevos lenguajes y tecnologías, creciendo cada día al explorar nuevos ámbitos del desarrollo.
