@@ -73,5 +73,5 @@ Soy una persona tenaz y determinada. Cuando enfrento un nuevo desafío, me entre
 
 ---
 
-## 📫 Conectamos: 
-- **LinkedIn:** [Leticia Sepúlveda Mancilla](https://www.linkedin.com/in/leticiaSepMan/)
+##📫Conectamos: 
+- **LinkedIn:**[Leticia Sepúlveda Mancilla](https://www.linkedin.com/in/leticiaSepMan/)
