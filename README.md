@@ -43,24 +43,24 @@ Soy una persona tenaz y determinada. Cuando enfrento un nuevo desafío, me entre
 
 ## 📚Formacion y experiencia 
 ### Formacion academica:
-- [Bachillerato]
-- [Tecnico Superior Anatomia Patologica]
-- [Tecnico Auxiliar de Enfmeria]
+- **Bachillerato**
+- **Tecnico Superior Anatomia Patologica**
+- **Tecnico Auxiliar de Enfmeria**
 ### Cursos realizados
-- [Prevención de Riesgos Laborales]
-- [RCP Básica y Avanzada]
-- [Protección de Datos y Privacidad]
-- [Introducción a la Ciberseguridad (Networking Academy)]
-- [Introducción a Packet Tracer (Networking Academy)]
-- [Introccuión a la Ciberseguridad (Google Coursera)]
-- [Habilidades Sociales y Trabajo en Equipo]
-- [Habilidades de Liderazgo y Negociación]
-- [Igualdad entre Hombres y Mujeres]
-- [Mindfullnes]
+- **Prevención de Riesgos Laborales**
+- **RCP Básica y Avanzada**
+- **Protección de Datos y Privacidad**
+- **Introducción a la Ciberseguridad (Networking Academy)**
+- **Introducción a Packet Tracer (Networking Academy)**
+- **Introccuión a la Ciberseguridad (Google Coursera)**
+- **Habilidades Sociales y Trabajo en Equipo**
+- **Habilidades de Liderazgo y Negociación**
+- **Igualdad entre Hombres y Mujeres**
+- **Mindfullnes**
 
 ###Experiencia profesional:
-- [13 años como  Auxiliar de Enfermería en Hospital Quirón]
-- [8 años como Auxiliar de Enfermería en el Sector Público (Junta de Andalucía)] 
+- **13 años como  Auxiliar de Enfermería en Hospital Quirón**
+- **8 años como Auxiliar de Enfermería en el Sector Público (Junta de Andalucía)**
 
 ## 🎇Filosofia de vida
  Creo en el esfuerzo, la constancia, el trabajo en equipo y la pasión como herrramientas para superar cualquier desafío profesional y personal. 
