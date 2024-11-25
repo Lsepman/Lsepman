@@ -52,7 +52,7 @@ Soy una persona tenaz y determinada. Cuando enfrento un nuevo desafío, me entre
 - Protección de Datos y Privacidad
 - Introducción a la Ciberseguridad (Networking Academy)
 - Introducción a Packet Tracer (Networking Academy)
-- Introccuión a la Ciberseguridad (Google Coursera)
+- Introducción a la Ciberseguridad (Google Coursera)
 - Habilidades Sociales y Trabajo en Equipo
 - Habilidades de Liderazgo y Negociación
 - Igualdad entre Hombres y Mujeres
