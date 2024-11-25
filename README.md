@@ -1,6 +1,7 @@
 # Leticia Sepúlveda Mancilla
 
 ¡Hola! 🙋‍♀️ Soy Leticia, estudiante de 2º curso de Desarrollo de Aplicaciones Multiplataforma (DAM). Además, soy Auxiliar de Enfermería con 15 años de experiencia en hospitales, tanto del ámbito público como privado. Decidí dar un giro a mi carrera profesional, impulsada por mi pasión por la informática y todo lo que la rodea. Me encanta aprender, trabajar en equipo y enfrentar nuevos retos profesionales, ya que considero que cada desafío es una nueva aventura.
+
 ---
 ## 🎇Sobre mí
 Soy una persona tenaz y determinada. Cuando enfrento un nuevo desafío, me entrego por completo hasta alcanzar el objetivo. Creo firmemente en la importancia de esforzarse por lo que realmente vale la pena.
@@ -10,6 +11,7 @@ Soy una persona tenaz y determinada. Cuando enfrento un nuevo desafío, me entre
 - 👣 Creo firmemente que una buena red familiar y de amigos impulsa el crecimiento personal y profesional. Por eso, cuido esas relaciones que me aportan seguridad y bienestar, siendo una persona muy familiar y cercana a mis amigos.
 - ⏲ Me encanta practicar padel y tenis, además de ejercicio físico tres veces por semana para despejar la mente y renovar ideas. 
 - 💻 Me encanta el Frontend y el Backend, disfrutando de pensar nuevas ideas que mejoren la vida diaria. Además me fascina la ciberseguridad y tengo un fuerte interés en especializarme en este campo.
+  
 ---
 ## 💻Tecnologías y herramientas
 ### Lenguajes que manejo:
