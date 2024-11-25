@@ -35,6 +35,7 @@ Soy una persona tenaz y determinada. Cuando enfrento un nuevo desafío, me entre
 - **Participación activa:** Me encantaría colaborar en proyectos donde pueda aportar mis ideas y conocimientos.
 - **Crecimiento profesional:** Deseo avanzar en mi carrera y alcanzar niveles más altos de responsabilidad y especialización.
 
+---
 ## 💪Mis fortalezas
 - **Constancia:** Soy apasioanda y persistente. Nunca ceso hasta lograr los objetivos que me propongo.
 - **Adaptación:** Me adapto facilmente a nuevos retos, enfrentánolos con determinación y proactividad.
@@ -64,6 +65,7 @@ Soy una persona tenaz y determinada. Cuando enfrento un nuevo desafío, me entre
 - 13 años como  Auxiliar de Enfermería en Hospital Quirón
 - 8 años como Auxiliar de Enfermería en el Sector Público (Junta de Andalucía)
 
+---
 ## 🎇Filosofia de vida
  Creo en el esfuerzo, la constancia, el trabajo en equipo y la pasión como herrramientas para superar cualquier desafío profesional y personal. 
  
